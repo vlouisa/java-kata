@@ -1,0 +1,18 @@
+===============================
+       INVOICE RECEIPT         
+===============================
+Customer: Guybrush Threepwood
+Address: 123 Pirate St, Monkey Island
+--------------------------------
+Sword .... $100.00
+   Discount (20%) : -$20.00
+Root beer .... $6.95
+   Discount (100%) : -$6.95
+Hook, Line & Sinker .... $25.99
+--------------------------------
+Subtotal: $105.99
+Discount (12%): -$12.72
+Tax (20%): $18.65
+Total: $111.92
+--------------------------------
+Thank you for your purchase!

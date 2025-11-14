@@ -1,0 +1,11 @@
+Sending email to guybrush.threepwood@monkey-island.test...
+Dear Guybrush Threepwood,
+Here is your invoice:
+
+
+Subtotal: $0.00
+Discount (0%): $0.00
+Tax (20%): $0.00
+Total: $0.00
+
+Thank you for shopping with us!

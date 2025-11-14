@@ -1,0 +1,13 @@
+===============================
+       INVOICE RECEIPT         
+===============================
+Customer: Guybrush Threepwood
+Address: 123 Pirate St, Monkey Island
+--------------------------------
+--------------------------------
+Subtotal: $0.00
+Discount (0%): $0.00
+Tax (20%): $0.00
+Total: $0.00
+--------------------------------
+Thank you for your purchase!
